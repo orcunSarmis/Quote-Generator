@@ -1,5 +1,5 @@
-
-
+  
+  ![cg](https://github.com/orcunSarmis/Quote-Generator/assets/79064464/3dba8ce1-71ff-42f6-a365-255df0801f7d)
   # **Quote Generator**
 
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
